@@ -1,2 +1,2 @@
 # Arbitor_MVP
-Arbitor Project Public MVP Release
+Arbitor Public MVP Release
